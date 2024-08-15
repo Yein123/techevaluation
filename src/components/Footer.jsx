@@ -3,7 +3,7 @@ import logo from '../cs-soc-official.svg';
 
 const Footer = () => {
   return (
-    <footer className="footer">
+    <footer className="footer w-full">
       <div className="container bg-grey text-black w-full mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center py-4 lg:mx-28">
           <img src={logo} alt="CS Society Logo" className="w-24 h-24 md:w-32 md:h-32" />
