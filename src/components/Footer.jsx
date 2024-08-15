@@ -8,16 +8,16 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center py-4 lg:mx-28">
           <img src={logo} alt="CS Society Logo" className="w-24 h-24 md:w-32 md:h-32" />
           
-          <div className="navigate flex flex-col gap-2 mt-4 md:mt-0">
+          <div className="navigate flex flex-col gap-2 mt-4 md:mt-0 text-center md:text-left">
             <p className="font-bold">NAVIGATE</p>
             <a href="https://cssocietyusm.com/about" className="hover:underline">About Us</a>
             <a href="/" className="hover:underline">Events</a>
             <a href="https://cssocietyusm.com/news" className="hover:underline">News</a>
           </div>
           
-          <div className="social flex flex-col items-center mt-4 md:mt-0">
+          <div className="social flex flex-col items-center mt-4 md:mt-0 text-center">
             <p className="font-bold">SOCIAL MEDIA</p>
-            <div className="flex gap-4">
+            <div className="flex gap-4 justify-center">
               <a href="https://www.facebook.com/USMComputerScienceSociety" target="_blank" rel="noreferrer">
                 <img src="fb.svg" alt="Facebook" className="w-6 h-6 md:w-8 md:h-6 mt-1 filter grayscale" />
               </a>
