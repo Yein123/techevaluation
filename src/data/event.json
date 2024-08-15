@@ -1,0 +1,83 @@
+[
+    {
+        "imgSrc": "/lon-2024-poster.webp",
+        "date": "July 7 2024",
+        "title": "Log Off Night 2024",
+        "description": "An annual dinner to celebrate and appreciate final year computer science students' contributions.",
+        "participant": "USM Students",
+        "tag": "Prom Night",
+        "link": "https://cssocietyusm.com/events/2023-2024/lon-2024/"
+    },
+    {
+        "imgSrc": "/pixel-2024-poster.webp",
+        "date": "July 2 2024",
+        "title": "Project Innovation & eXploration in CS Education and Learning 2024",
+        "description": "An annual flagship exhibition programme specially curated for final year computer science students",
+        "participant": "Year 4",
+        "tag": "Flagship",
+        "link": "https://cssocietyusm.com/events/2023-2024/pixel-2024"
+    },
+    {
+        "imgSrc": "/agm-2024-poster.webp",
+        "date": "June 26 2024",
+        "title": "Annual General Meeting 2024",
+        "description": "An annual event to showcase the achievements of CS Society throughout the year and elect the new executives members",
+        "participant": "CS Students",
+        "tag": "CS Society",
+        "link": "https://cssocietyusm.com/events/2023-2024/agm-2024"
+    },
+    {
+        "imgSrc": "/vhack-2024-poster.webp",
+        "date": "Apr 20 2024",
+        "title": "Varsity Hackathon 2024",
+        "description": "A completely redesigned international hackathon and a space for university students to gain new hackathon experience.",
+        "participant": "International",
+        "tag": "Flagship",
+        "link": "https://cssocietyusm.com/events/2024/varsity-hackathon"
+    },
+    {
+        "imgSrc": "/sukapps-2024-poster.webp",
+        "date": "Apr 9 2024",
+        "title": "Sukan Antara Pusat Pengajian Sains 2024",
+        "description": "A joint collaboration sports competition between seven competing Science Schools in USM.",
+        "participant": "Science Schools",
+        "tag": "Sports",
+        "link": "https://cssocietyusm.com/events/2024/sukapps"
+    },
+    {
+        "imgSrc": "/frostynight-2023-poster.webp",
+        "date": "Apr 4 2024",
+        "title": "Frosty Fantasy Night 2023",
+        "description": "A brand new event specifically designed for computer science undergraduates to unwind and relax.",
+        "participant": "CS Students",
+        "tag": "Entertainment",
+        "link": "https://cssocietyusm.com/events/2024/frosty-fantasy-night"
+    },
+    {
+        "imgSrc": "/me2-2024-poster.webp",
+        "date": "Mar 5 2024",
+        "title": "Major Minor Exploration Event 2024",
+        "description": "A 2-day virtual event aimed at helping first-year USM CS students to select their academic tracks.",
+        "participant": "Year 1",
+        "tag": "Talk",
+        "link": "https://cssocietyusm.com/events/2024/major-minor-exploration"
+    },
+    {
+        "imgSrc": "/vcsirf-2023-poster.webp",
+        "date": "Dec 4 2023",
+        "title": "Virtual Computer Science Internship & Recruitment Fair 2023",
+        "description": "A 1-day online event featuring career talks and sharing sessions primarily for computer science students at USM.",
+        "participant": "Year 3 & 4",
+        "tag": "Flagship",
+        "link": "https://cssocietyusm.com/events/2023/vcsirf"
+    },
+    {
+        "imgSrc": "/csbersamamu-2023-poster.webp",
+        "date": "Oct 22 2023",
+        "title": "CS Bersamamu 2023",
+        "description": "An annual event that is organized to welcome and guide first-year students from the School of Computer Sciences, USM.",
+        "participant": "Year 1",
+        "tag": "Flagship",
+        "link": "https://cssocietyusm.com/events/2023/cs-bersamamu"
+    }
+]
